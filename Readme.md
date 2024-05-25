@@ -68,26 +68,3 @@ Penjelasan Kode:
    
 8. Fungsi main: Menampilkan menu utama dan memproses pilihan pengguna.
 </pre>
-
-
-## Struktur program 
-
-<pre>
- Program ini menggunakan struktur data sederhana untuk menyimpan informasi pasien dan dokter. Berikut adalah penjelasan singkat dari setiap bagian program:
-
-1. Struktur Pasien: Menyimpan data pasien, termasuk ID dan nama.
-   
-2. Struktur Dokter: Menyimpan data dokter, termasuk ID dan nama.
-   
-3. Daftar pasien dan dokter: Menggunakan package container/list untuk antrian pasien dan slice untuk daftar dokter.
-
-4. Fungsi daftarPasien: Menambahkan pasien ke dalam antrian.
-   
-5. Fungsi daftarDokter: Menambahkan dokter ke dalam daftar.
-   
-6. Fungsi tampilkanAntrian: Menampilkan semua pasien dalam antrian.
-   
-7. Fungsi panggilPasien: Mengeluarkan pasien dari antrian dan memanggil pasien.
-   
-8. Fungsi main: Menampilkan menu utama dan memproses pilihan pengguna.
-</pre>
