@@ -23,5 +23,15 @@ Pastikan Anda telah menginstal Go di sistem Anda. Anda dapat mengunduh dan mengi
 
 1. **Clone repository ini:**
    ```sh
-   git clone https://github.com/username/hospital-queue-system.git
-   cd hospital-queue-system
+   git clone 
+```
+2. **Masuk direktori**
+```sh
+cd hospital_queue
+```
+
+3. **Jalankan program**
+   ```sh
+   go run hospital_queue.go
+   ```
+
